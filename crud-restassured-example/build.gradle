@@ -1,0 +1,21 @@
+plugins {
+    id 'java-library'
+}
+
+sourceCompatibility = 12
+targetCompatibility = 12
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+	//REST Assured
+    testImplementation 'io.rest-assured:rest-assured:4.2.0'
+    
+    //JSON Schema Validator
+    implementation 'io.rest-assured:json-schema-validator:4.2.0'
+
+    // Use JUnit test framework
+    testImplementation 'org.junit.jupiter:junit-jupiter-engine:5.6.0'
+}
