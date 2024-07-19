@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.roytuts.com/how-to-perform-crud-operations-rest-api-testing-using-rest-assured-in-java/
+Please follow the tutorial https://roytuts.com/how-to-perform-crud-operations-rest-api-testing-using-rest-assured-in-java/
